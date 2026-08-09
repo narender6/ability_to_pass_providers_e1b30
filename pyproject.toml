@@ -1,0 +1,10 @@
+[build-system]
+requires=['setuptools']
+build-backend='setuptools.build_meta'
+[project]
+name='ability_to_pass_providers_e1b30'
+version='0.1.0'
+py-modules=['ability_to_pass_providers_e1b30']
+dependencies=[]
+[tool.setuptools]
+py-modules=['ability_to_pass_providers_e1b30']
